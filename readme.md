@@ -1,7 +1,7 @@
 
 **Purpose**
 
-Simple Typescript Definition for [npm:check-point-in-rectangle by geosquare](https://github.com/geosquare/check-point-in-rectangle "check-point-in-rectangle githib")
+Simple Typescript Definition for [check-point-in-rectangle by geosquare](https://github.com/geosquare/check-point-in-rectangle "check-point-in-rectangle githib")
 
 **Usage**
 
